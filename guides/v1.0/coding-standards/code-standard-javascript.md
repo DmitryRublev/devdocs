@@ -513,7 +513,7 @@ var obj = {a: 1, b: 2, c: 3};  // No space after { or before }.</pre>
 <p>So always declare variables with <code>var</code>.</p>
 <p>Using only one var per scope (function) promotes readability.</p>
 <pre>
-var foo = "bar,"
+var foo = "bar",
     num = 1,
     arr = [1, 2, 3];
 </pre>
